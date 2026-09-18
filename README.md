@@ -1,3 +1,9 @@
+<img width="384" height="384" alt="VC95jw" src="https://github.com/user-attachments/assets/dc58864d-476d-4aec-9c03-e437328b986a" />
+
+
+
+
+
 # 👋 ¡Hola! Soy David A
 
 ### 💻 Estudiante de DAWe | 🎮 Gamer | 🎵 Amante de la música
@@ -30,9 +36,8 @@ Actualmente estoy centrado en aprender y mejorar mis habilidades como **desarrol
 Actualmente estoy aprendiendo y trabajando con:
 
 ```text
-🌐 HTML       █████████░  90%
-🎨 CSS        ████████░░  80%
-⚡ JavaScript ██████░░░░  60%
-☕ Java       █████░░░░░  50%
-🐘 PHP        ████░░░░░░  40%
-🗄️ SQL        █████░░░░░  50%
+🌐 HTML       █████████░  30%
+🎨 CSS        ████████░░  10%
+⚡ JavaScript ██████░░░░  20%
+🐘 PHP        ████░░░░░░  14%
+🗄️ SQL        █████░░░░░  40%
